@@ -1,0 +1,3 @@
+database_coco_test.pickle
+yolov10n.pt
+*.pyc
